@@ -1,2 +1,2 @@
 # php-forum
-A simple project to learn PHP
+A simple project whose sole purpose is for me to get familiar with PHP.
